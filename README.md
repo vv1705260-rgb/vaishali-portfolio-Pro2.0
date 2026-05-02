@@ -1,5 +1,5 @@
 ## vaishali-portfolio-Pro2.0
-The official repository for my professional portfolio and digital resume."
+The official repository for my professional portfolio and digital resume.
 
 # 💻 Vaishali Portfolio-Pro2.0
 
