@@ -35,6 +35,7 @@ The official repository for my professional portfolio and digital resume.
 A Python-based system for generating invoices with tax calculation and discounts.
 
 👉 https://github.com/vv1705260-rgb/SoftGrow_Vaishali_Invoice_generator-python-project-
+<img width="1536" height="1024" alt="85784" src="https://github.com/user-attachments/assets/441e596e-28dd-47d2-9dd2-b0cee7aaf2df" />
 
 
 ---
@@ -43,6 +44,8 @@ A Python-based system for generating invoices with tax calculation and discounts
 A Python-based authentication system with user validation and structured workflow.
 
 👉 https://github.com/vv1705260-rgb/SoftGrow_Vaishali_Login-System-Pro
+<img width="1536" height="1024" alt="85792" src="https://github.com/user-attachments/assets/495b65ca-5f4d-4eaa-9e64-11d72d49bdc6" />
+
 <img width="720" height="1600" alt="85798" src="https://github.com/user-attachments/assets/86f305f4-99db-4b1c-ba1f-55e3141c58e2" />
 
 ---
